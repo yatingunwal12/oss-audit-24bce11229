@@ -26,12 +26,12 @@ This repository contains the five shell scripts submitted as part of the Open So
 
 ```
 oss-audit-24BCE11229/
-├── system_identity.sh       # Script 1 — System Identity Report
-├── foss_inspector.sh        # Script 2 — FOSS Package Inspector
-├── disk_auditor.sh          # Script 3 — Disk and Permission Auditor
-├── log_analyser.sh          # Script 4 — Log File Analyser
-├── manifesto_generator.sh   # Script 5 — Open Source Manifesto Generator
-└── README.md
+# Script 1 — System Identity Report
+# Script 2 — FOSS Package Inspector
+# Script 3 — Disk and Permission Auditor
+# Script 4 — Log File Analyser
+# Script 5 — Open Source Manifesto Generator
+README.md
 ```
 
 ---
